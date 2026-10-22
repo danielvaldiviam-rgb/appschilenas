@@ -1,0 +1,3 @@
+# Este archivo se completa cuando tengas tu cuenta de AdMob.
+# Reemplaza pub-0000000000000000 por tu ID de editor de AdMob y borra el signo # del inicio de la línea siguiente:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
